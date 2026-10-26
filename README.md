@@ -17,7 +17,7 @@ The data warehouse is structured around a fact constellation schema to optimize 
 * `schema.sql`: Complete MySQL script to set up the database and relational table constraints.
 * `data_cleaning.py`: Python script handling raw dataset preprocessing, missing value imputation, and date parsing.
 * `data_transformation.py`: Python script managing dimension mapping, foreign key assignments, and fact table metrics.
-* `visualizations/`: Contains exports and reports from the Looker dashboard layer.
+* `visualization/`: Contains exports and reports from the Looker dashboard layer.
 
 ## 📊 Business Intelligence & Visualization
 * Built interactive dashboards and KPI reports using **Looker / Looker Studio** to track executive-level insights, including sales trends, inventory efficiency, and supplier contributions.
